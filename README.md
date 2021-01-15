@@ -1,8 +1,4 @@
 # Insincere-Question-Classifier-Using-Google-Word-Vectors
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
