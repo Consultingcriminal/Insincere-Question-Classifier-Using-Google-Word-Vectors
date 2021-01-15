@@ -154,7 +154,7 @@ The deployment is underway.Only model can be trained and tuned by the user as of
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Consultingcriminal/Insincere-Question-Classifier-Using-Google-Word-Vectors/issues) for a list of proposed features (and known issues).
 
 
 
